@@ -1,0 +1,300 @@
+{
+  "0": [
+    {
+      "name": "Sawmill",
+      "info": "Sawmill refers to a wood process where wood logs are cut into lumbers. A sawmill's basic operation is much like those of hundreds of years ago: a log enters on one end and dimensional lumber exits on the other end. \nAfter trees are selected for harvest, they will be felled and bucked to logs. Next, the logs will go through a series of processes such as Debarking, Decking, Edging, Trimming, Drying, Planning to transform to smooth-surface lumbers with uniform width and thickness.\nThe finished lumbers can be used in many kinds of businesses. Furnishing is an example. Start your wood empire by investing in a sawmill factory in Africa. You won’t regret!"
+    },
+    {
+      "name": "Felling",
+      "info": "This workshop is built for tree cutting down process. You have to have it in your forest!"
+    },
+    {
+      "name": "Limbing",
+      "info": "Limbing helps to remove branches from felled trees. This is simple but important step in wood processing."
+    },
+    {
+      "name": "Bucking",
+      "info": "Bucking is the process of cutting felled and delimbed trees into logs. Cutting from the top down is overbucking and from the bottom up is underbucking."
+    },
+    {
+      "name": "Debarking",
+      "info": "wood logs from Bucking workshop will be debarked here before going to the next process."
+    },
+    {
+      "name": "Decking",
+      "info": "Different wood logs can be used  for different purposes, depending in their sizes. Thus they need to be categorized in decking workshops."
+    },
+    {
+      "name": "Canting",
+      "info": "Canting workshop responsibles for breaking wood logs into cants and flitches.  These cants can be further broken down into multiple flitches and/or boards."
+    },
+    {
+      "name": "Drying",
+      "info": "This process dries wood flitches to decrease their weight and increase their thermophysical properties"
+    },
+    {
+      "name": "Trimming",
+      "info": "Trimming is one of the last steps in sawmill. It helps to remove unwanted corners as well as straight up the side of wood flitches."
+    },
+    {
+      "name": "Planning",
+      "info": "At Planning workshop, wood log surfaces will be  smoothed, leaving an uniform width and thickness."
+    },
+    {
+      "name": "Varnishing",
+      "info": "varnishing process uses a chemical liquid to paint onto wood to protect its surface. the liquid also shines the surface when it dries."
+    },
+    {
+      "name": "Furnishing",
+      "info": "This is the final workshop in your sawmill factory where various types of furniture will be produced using the wood flitches from the previous workshop."
+    }
+  ],
+  "1": [
+    {
+      "name": "Wood-pellet",
+      "info": "Wood pellets are made of agriculture and forestry wastes like wood chips, rice husk, cotton stalk, cotton seed hull and weed, etc. \nThese raw materials are made into sawdust, heated up to bring the moisture content to around 10% and then squeezed under high pressure through tiny holes in a matrix.\nThe pressure and the heat makes the wood into a putty which is able to mold, and the lignin of the wood forms a natural seal to bind the pellet together.\nWood Pellets do not contain any glues, additives, chemicals, starch or anything else apart from wood.\nWood pellets are used as fuel in a pellet stove for household heating. Depending on regional availability, it can be the most economically efficient fuel.\nDo not waste any tiny bit of wood. Build your wood pellet factory and join this promising industry!"
+    },
+    {
+      "name": "Felling",
+      "info": "This workshop is built for tree cutting down process. You have to have it in your forest!"
+    },
+    {
+      "name": "Limbing",
+      "info": "Limbing helps to remove branches from felled trees. This is simple but important step in wood processing"
+    },
+    {
+      "name": "Chipper",
+      "info": "Large wood chippers are frequently equipped with grooved rollers in the throat of their feed funnels. Once a branch has been gripped by the rollers, the rollers transport the branch to the chipping blades at a steady rate"
+    },
+    {
+      "name": "Drum Dryer",
+      "info": "Drum drying is a method used for drying out liquids from raw materials. In wood drum-drying process, wood pulps  are dried at relatively low temperatures inside rotating, high-capacity drums"
+    },
+    {
+      "name": "Pellet mill",
+      "info": "Pellet mill workshops creates pellet from powdered wood by combining small wood pulps into a larger, homogeneous mass. There are two common types of large-scale pellet mills: flat die mills and ring die mills"
+    },
+    {
+      "name": "Cooler",
+      "info": "From pellet mill, wood pellet will be cooled down by coolers. This is the final step of producing completed pellets"
+    },
+    {
+      "name": "Packing",
+      "info": "The produced pellets will be packed at Packing workshop before being transported to warehouse. After that, they will be distributed to all over the world!"
+    }
+  ],
+  "2": [
+    {
+      "name": "Wood Pallet",
+      "info": "A pallet is a flat transport structure, which supports goods in a stable fashion while being lifted by a forklift, a pallet jack, a front loader, a jacking device, or a crane. Goods or shipping containers are often placed on a pallet secured with strapping, stretch wrap or shrink wrap and shipped. Since its invention in the twentieth century, its use has dramatically supplanted older forms of crating like the wooden box and the wooden barrel, as it works well with modern packaging like corrugated boxes and intermodal containers commonly used for bulk shipping. \nƯood Pallet produce is a stable business. Join the field and make it to the top global wood pallet providers!"
+    },
+    {
+      "name": "Felling",
+      "info": "This workshop is built for tree cutting down process. You have to have it in your forest!"
+    },
+    {
+      "name": "Limbing",
+      "info": "Limbing helps to remove branches from felled trees. This is simple but important step in wood processing"
+    },
+    {
+      "name": "Bucking",
+      "info": "Bucking is the process of cutting felled and delimbed trees into logs. Cutting from the top down is overbucking and from the bottom up is underbucking"
+    },
+    {
+      "name": "Debarking",
+      "info": "Wood skin is not needed for producing wood pallet. Thus, wood logs from previous workshop need to be debarked before going to the next process."
+    },
+    {
+      "name": "Decking",
+      "info": "Different wood logs can be used to make different part of the pallets, depending in their sizes. Thus they need to be categorized in decking workshops"
+    },
+    {
+      "name": "Canting",
+      "info": "Canting workshop responsible for cutting wood logs into flat boards. These boards may be further divided into small slips which will be uses to form pallets"
+    },
+    {
+      "name": "Drying",
+      "info": "This process dries wood slips to decrease their weight and increase their thermophysical properties"
+    },
+    {
+      "name": "Trimming",
+      "info": "Trimming is the final step of preparing the wood for pallet forming. This process helps to remove unwanted corners as well as straight up the side of wood slips"
+    },
+    {
+      "name": "Pallet form",
+      "info": "Different type of pallets have different structures. At this workshop, wood slips will be assembled into pallets based in their designs"
+    },
+    {
+      "name": "Dryer",
+      "info": "The completed pallets will go through a thermo process to strengthen their thermophysical properties. After this, they will be ready for selling to the market!"
+    }
+  ],
+  "3": [
+    {
+      "name": "Paperfactory",
+      "info": "Paper producing is a traditional business in light Industry. Its main products include paper and cardboard which are being used widely for printing, writing, and packaging,. Today almost all paper is manufactured using industrial machinery.\nIn papermaking, a dilute suspension consisting mostly of separate cellulose fibres in water is drained through a sieve-like screen, so that a mat of randomly interwoven fibres is laid down. Water is further removed from this sheet by pressing, sometimes aided by suction or vacuum, or heating. Once dry, a generally flat, uniform and strong sheet of paper is achieved.\nNow let's build your own paper making factory and maximize its profit!"
+    },
+    {
+      "name": "Felling",
+      "info": "This workshop is built for tree cutting down process. You have to have it in your forest!"
+    },
+    {
+      "name": "Debarking",
+      "info": "Wood logs from felling workshop will be debarked here and get ready for the next process"
+    },
+    {
+      "name": "Chipper",
+      "info": "Large wood chippers are frequently equipped with grooved rollers in the throat of their feed funnels. Once a branch has been gripped by the rollers, the rollers transport the branch to the chipping blades at a steady rate"
+    },
+    {
+      "name": "De-Lignin",
+      "info": "Lignin is a complex chemical compound and the only aromatic polymer present in wood. It affects the quality of the wood pulp and should be removed"
+    },
+    {
+      "name": "Thermomechanical",
+      "info": "Thermomechanical is a two-stage process used to refine wood pulp by both heating and mechanical refining movement. It is a very important process in wood pulp processing"
+    },
+    {
+      "name": "Headbox & Forming",
+      "info": "During this  process, a mix of fibre and water (95%) is squirted through a thin horizontal slit onto a forming fabric. After that, water is removed and the fibers  start to spread and consolidate into a thin mat"
+    },
+    {
+      "name": "Pressing & Drying",
+      "info": "Pressing process aims to squeeze the web of wet paper and lower the water content to 50%. Meanwhile, drying process dries the web by passing it through a series of heated cast-iron cylinders"
+    },
+    {
+      "name": "Sizing & Coating",
+      "info": "Starch is applied onto the paper surface to strengthen the surface during sizing process. Next, paper will go through color coating process to improve its printing properties."
+    },
+    {
+      "name": "Reeling",
+      "info": "This is the last workshop in the paper factory. Produced paper will be reeled here to form paper rolls."
+    }
+  ],
+  "4": [
+    {
+      "name": "Carton box",
+      "info": "A carton is a box or container usually made of paperboard and sometimes of corrugated fiberboard. Many types of cartons are used in packaging.\nCartons can be made from many materials: paperboard, duplex, white kraft, recycled and many more various plastics, or a composite. Many cartons are made out of a single piece of paperboard. Depending on the need, this paperboard can be waxed or coated with polyethylene to form a moisture barrier. This may serve to contain a liquid product or keep a powder dry.\nCarton box supply is the core of packaging industry and you don't want to miss this piece of cake, do you?"
+    },
+    {
+      "name": "Felling",
+      "info": "This workshop is built for tree cutting down process. You have to have it in your forest!"
+    },
+    {
+      "name": "Debarking",
+      "info": "Wood logs from felling workshop will be debarked here and get ready for the next process"
+    },
+    {
+      "name": "Chipper",
+      "info": "Large wood chippers are frequently equipped with grooved rollers in the throat of their feed funnels. Once a branch has been gripped by the rollers, the rollers transport the branch to the chipping blades at a steady rate"
+    },
+    {
+      "name": "De-Lignin",
+      "info": "Lignin is a complex chemical compound and the only aromatic polymer present in wood. It affects the quality of the wood pulp and should be removed"
+    },
+    {
+      "name": "Thermomechanical",
+      "info": "Thermomechanical is a two-stage process used to refine wood pulp by both heating and mechanical refining movement. It is a very important process in wood pulp processing"
+    },
+    {
+      "name": "Headbox & Forming",
+      "info": "During this  process, a mix of fibre and water (95%) is squirted through a thin horizontal slit onto a forming fabric. After that, water is removed and the fibers  start to spread and consolidate into a thin mat"
+    },
+    {
+      "name": "Pressing & Drying",
+      "info": "Pressing process aims to squeeze the web of wet paper and lower the water content to 50%. Meanwhile, drying process dries the web by passing it through a series of heated cast-iron cylinders."
+    },
+    {
+      "name": "Combining",
+      "info": "The paperboards using for carton boxes have different layers: outer layers, middle layers, and inner layers. Here in this step, these layers will be combined together to form completed carton box paperboards"
+    },
+    {
+      "name": "CNC",
+      "info": "The paperboards from combining workshop will be input to CNC workshop. at CNC, they will be cut to foldable pieces"
+    },
+    {
+      "name": "Boxing",
+      "info": "This is the final process of carton box producing. foldable paperboards from CNC workshop will be folded to form completed boxes"
+    }
+  ],
+  "5": [
+    {
+      "name": "HDF factory",
+      "info": "High-density fiberboard (HDF), is a type of fiberboard, which is an engineered wood product.\nIt is similar to particle board and medium-density fiberboard, but is denser and much stronger and harder because it is made out of exploded wood fibers that have been highly compressed. It differs from particle board in that the bonding of the wood fibers requires no additional materials, although resin is often added. Unlike particle board, it will not split or crack.\nHDF is produced in either a wet or dry process. The wet process, known as the Mason Method, leaves only one smooth side while the dry processed hardboard is smooth on both sides.\nHDF has long been used in furniture, but it is also popular for use in the construction industry and with trades as a temporary floor protector.\nThere is no wonder that HDF supply is a massive chance to scale up your wood business. What are you waiting for?"
+    },
+    {
+      "name": "Felling",
+      "info": "This workshop is built for tree cutting down process. You have to have it in your forest!"
+    },
+    {
+      "name": "Limbing",
+      "info": "Limbing helps to remove branches from felled trees. This is simple but important step in wood processing"
+    },
+    {
+      "name": "Canting",
+      "info": "Canting workshop responsibles for cutting wood logs into smaller pieces. This helps to prepare the input for the chipping process"
+    },
+    {
+      "name": "Chipper",
+      "info": "Large wood chippers are frequently equipped with grooved rollers in the throat of their feed funnels. Once a branch has been gripped by the rollers, the rollers transport the branch to the chipping blades at a steady rate"
+    },
+    {
+      "name": "Thermomechanical",
+      "info": "Thermomechanical is a two-stage process used to refine wood pulp by both heating and mechanical refining movement. It is a very important process in wood pulp processing"
+    },
+    {
+      "name": "Pressing",
+      "info": "In this process, wood pulps will be pressed to form thin, flat HDF boards. The pressing power and technique decide the quality of the HDF boards"
+    },
+    {
+      "name": "Planning",
+      "info": "HDF boards from Pressing workshop will be polished here. Beside, they will be painted with different type of wood grains. This give them a natural look"
+    },
+    {
+      "name": "Size Cutting",
+      "info": "This final step helps to cut HDF boards into different size for different businesses. The output of this workshop is the final products those are sold to the market"
+    }
+  ],
+  "6": [
+    {
+      "name": "Cellulose textile",
+      "info": "Cellulose fibers are fibers made with ethers or esters of cellulose, which can be obtained from the bark, wood or leaves of plants, or from other plant-based material. In addition to cellulose, the fibers may also contain hemicellulose and lignin, with different percentages of these components altering the mechanical properties of the fibers.\nOne of the main applications of cellulose fibers are in the textile industry, as chemical filters.The market for cellulose fibers has witnessed strong growth due to increasing demand from the textile industry. The demand for environmentally friendly, skin friendly and bio-degradable fabrics is a key factor driving this market.\nHow does it sound to your sharp business sense? Attractive, huh? Hurry up, or you will regret!"
+    },
+    {
+      "name": "Felling",
+      "info": "This workshop is built for tree cutting down process. You have to have it in your forest!"
+    },
+    {
+      "name": "Limbing",
+      "info": "Limbing helps to remove branches from felled trees. This is simple but important step in wood processing"
+    },
+    {
+      "name": "Canting",
+      "info": "Canting workshop responsible for cutting wood logs into flat boards. These boards can be further divided into small slips which will be uses to form pallets"
+    },
+    {
+      "name": "Chipper",
+      "info": "Large wood chippers are frequently equipped with grooved rollers in the throat of their feed funnels. Once a branch has been gripped by the rollers, the rollers transport the branch to the chipping blades at a steady rate"
+    },
+    {
+      "name": "Lignin Dissolves",
+      "info": "Lignin is a complex chemical compound and the only aromatic polymer present in wood. It affects the quality of the wood pulp and should be removed. In this process, sulphuric acid is used to dissolve lignin"
+    },
+    {
+      "name": "Fibres spinning",
+      "info": "Spinning is the twisting together of drawn-out strands of fibers to form yarn, and is a major part of the textile industry.There are several industrial processes available to spin yarn, for example, Ring spinning, spinning mule"
+    },
+    {
+      "name": "Textile",
+      "info": "The yarn from fibre spinning workshop will be used here to create textiles. Textiles are formed by weaving, knitting, crocheting, knotting, felting, or braiding"
+    },
+    {
+      "name": "Textile dyeing",
+      "info": "Dyeing is the application of dyes or pigments on textile materials with the objective of achieving color with desired fastness. Dyeing is normally done in a special solution containing dyes and particular chemical material"
+    },
+    {
+      "name": "Textile printing",
+      "info": "This is the final step of textile producing. finished dyed textile will be printed with various types of patterns/designs. After this step, they are ready to travel to everywhere in the world!"
+    }
+  ]
+}
