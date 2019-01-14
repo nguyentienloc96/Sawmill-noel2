@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3ca1454d52f7d034db737dfc06a1c91f
+timeCreated: 1534841341
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nanosecond Thin BRK
+  fontNames:
+  - Nanosecond Thin BRK
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
